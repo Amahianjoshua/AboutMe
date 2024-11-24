@@ -31,7 +31,7 @@ personal_info=[
     "Name: Amahian Osewe Joshua",
     "Education : B.Sc Statistics (2018- 2023)",
     "Email: joshuaosewe6@gmail.com",
-    "GitHub: https://github.com/Joshua2576",
+    "GitHub: https://github.com/Amahianjoshua",
     "Whatsapp: +2348143572576",
     "LinkedIn: https://www.linkedin.com/in/amahianjoshua"
 
